@@ -1,0 +1,89 @@
+{
+  "layer": "top",
+  "output": ["eDP-1"],
+  "position": "top",
+  
+  "modules-left": ["custom/apple","hyprland/workspaces"],
+  "modules-center": ["hyprland/window"],
+  "modules-right": ["network","backlight","pulseaudio","battery","clock"],
+
+  "custom/apple": {
+     "format": "{icon}",
+     "format-icons": "",
+  },
+  
+  "hyprland/workspaces": {
+    "active-only": true,
+    "all-outputs": true,
+    "format": "{icon}",
+    "format-icons": {
+        "default": "",
+	"active": "",
+	"empty": "",
+	},
+    "persistent-workspaces": {
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": []
+    },
+    "disable-click": true,
+  },
+ 
+  "hyprland/window": {
+    "format": "{class}",
+    "window-rewrite": {
+      "class(firefox)": "Firefox"
+    }
+  },
+
+  "clock": {
+    "format": "{:%a %b %d %I:%M %p}",
+    "interval": 60
+  },
+
+  "network": {
+    "interface": "wlan0",
+    "format-icons": ["󰤟","󰤢","󰤥","󰖩"],
+    "format": "Disconnected 󰤭", 
+    "format-wifi":"On   {icon}",
+    "format-disconnected": "Offline 󰤭",
+
+    "tooltip": false,
+    "max-length": 50
+  },
+
+  "backlight": {
+    "device": "amdgpu_bl1",
+    "format": "{percent}   {icon}",
+    "format-icons": ["", ""]
+  },
+
+  "pulseaudio": {
+    "format": "{volume}   {icon}",
+    "format-muted": "󰝟",
+    "format-icons": {
+      "headphone": "󰋋",
+      "hands-free": "󰽯",
+      "headset": "󰋎",
+      "phone": "",
+      "portable": "󰼽",
+      "car": "󰄍",
+      "default": [""]
+    },
+    "scroll-step": 1,
+    "on-click": "pavucontrol",
+    "ignored-sinks": ["Easy Effects Sink"]
+  },
+  
+  "battery": {
+    "format": "{capacity}   {icon}",
+    "format-icons": ["","","","","",""],
+    "format-charging": "{capacity}  <span color='#00ff00'>{icon}</span>",
+    "tooltip": false
+    
+  }
+}

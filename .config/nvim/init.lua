@@ -1,0 +1,5 @@
+require("astonish.core")
+require("astonish.core.init")
+require("astonish.core.keymaps")
+require("astonish.core.options")
+require("astonish.lazy")

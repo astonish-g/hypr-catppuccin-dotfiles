@@ -1,0 +1,678 @@
+INFO 1/17/2024, 9:46:37 AM  launch with argv [/usr/share/typora/Typora]
+INFO 1/17/2024, 9:46:38 AM  launchFromDiffVersion, pre version is undefined
+INFO 1/17/2024, 9:46:38 AM  start LM in devVersion=false
+INFO 1/17/2024, 9:46:38 AM  [Raven] instanceKey = d220a370-7449-47c9-b16d-8b2d34c825d4
+INFO 1/17/2024, 9:46:38 AM  [watch L]
+INFO 1/17/2024, 9:46:38 AM  ls put SLicense
+INFO 1/17/2024, 9:46:38 AM  [L] Read from incorrupted InstallDate
+INFO 1/17/2024, 9:46:38 AM  writeInstallDate fromBTime=true
+INFO 1/17/2024, 9:46:38 AM  overwriteThemeFolder
+INFO 1/17/2024, 9:46:38 AM  ------------------start------------------
+INFO 1/17/2024, 9:46:38 AM  typora version: 1.7.6
+INFO 1/17/2024, 9:46:38 AM  undefined
+INFO 1/17/2024, 9:46:38 AM  ls put IDate
+INFO 1/17/2024, 9:46:38 AM  [L] installDate is 1/17/2024, trail remains: 15 days
+INFO 1/17/2024, 9:46:38 AM  [watch L] hasL: false
+INFO 1/17/2024, 9:46:38 AM  [Raven] userId = 9bd4cce7-cc34-46eb-87f0-cd086ce34a12
+INFO 1/17/2024, 9:46:38 AM  [focus] 1
+INFO 1/17/2024, 9:46:38 AM  [blur] 1
+INFO 1/17/2024, 9:46:38 AM  [win] blur
+INFO 1/17/2024, 9:46:38 AM  [focus] 1
+INFO 1/17/2024, 9:46:38 AM  synced recovery
+user-dict.json not found
+INFO 1/17/2024, 9:46:38 AM  handle document.loadData
+INFO 1/17/2024, 9:46:38 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 1/17/2024, 9:46:38 AM  [RenderProcess 1][Log] reset NodeMap
+INFO 1/17/2024, 9:46:38 AM  synced recovery
+INFO 1/17/2024, 9:46:39 AM  [RenderProcess 1][Log] onBecomeActive
+INFO 1/17/2024, 9:46:39 AM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/17/2024, 9:46:40 AM  [blur] 1
+INFO 1/17/2024, 9:46:40 AM  [win] blur
+INFO 1/17/2024, 9:46:40 AM  [focus] 1
+INFO 1/17/2024, 9:46:40 AM  [blur] 1
+INFO 1/17/2024, 9:46:40 AM  [win] blur
+INFO 1/17/2024, 9:46:40 AM  [focus] 1
+INFO 1/17/2024, 9:46:58 AM  File.option.useCustomFontSize=true
+INFO 1/17/2024, 9:46:58 AM  document.body.parentElement.style.fontSize = '14px'
+INFO 1/17/2024, 9:47:00 AM  File.option.useCustomFontSize=false
+INFO 1/17/2024, 9:47:00 AM  document.body.parentElement.style.fontSize = ''
+INFO 1/17/2024, 9:47:03 AM  updateTheme
+INFO 1/17/2024, 9:47:05 AM  updateTheme
+INFO 1/17/2024, 9:47:07 AM  updateTheme
+INFO 1/17/2024, 9:47:08 AM  updateTheme
+INFO 1/17/2024, 9:47:13 AM  [blur] 1
+INFO 1/17/2024, 9:47:13 AM  [win] blur
+INFO 1/17/2024, 10:30:30 AM  [focus] 1
+INFO 1/17/2024, 10:30:32 AM  [blur] 1
+INFO 1/17/2024, 10:30:32 AM  [win] blur
+INFO 1/17/2024, 10:31:19 AM  [focus] 1
+INFO 1/17/2024, 10:31:20 AM  [blur] 1
+INFO 1/17/2024, 10:31:20 AM  [win] blur
+INFO 1/17/2024, 10:31:47 AM  [focus] 1
+INFO 1/17/2024, 10:31:48 AM  [blur] 1
+INFO 1/17/2024, 10:31:48 AM  [win] blur
+INFO 1/17/2024, 10:31:50 AM  [focus] 1
+INFO 1/17/2024, 10:31:51 AM  [blur] 1
+INFO 1/17/2024, 10:31:51 AM  [win] blur
+INFO 1/17/2024, 10:34:44 AM  [focus] 1
+INFO 1/17/2024, 10:34:45 AM  [blur] 1
+INFO 1/17/2024, 10:34:45 AM  [win] blur
+INFO 1/17/2024, 10:34:53 AM  [focus] 1
+INFO 1/17/2024, 10:34:54 AM  [blur] 1
+INFO 1/17/2024, 10:34:54 AM  [win] blur
+INFO 1/17/2024, 10:37:35 AM  [focus] 1
+INFO 1/17/2024, 10:37:36 AM  [blur] 1
+INFO 1/17/2024, 10:37:36 AM  [win] blur
+INFO 1/17/2024, 10:37:42 AM  [focus] 1
+INFO 1/17/2024, 10:37:42 AM  [blur] 1
+INFO 1/17/2024, 10:37:42 AM  [win] blur
+INFO 1/17/2024, 10:40:04 AM  [focus] 1
+INFO 1/17/2024, 10:40:05 AM  [blur] 1
+INFO 1/17/2024, 10:40:05 AM  [win] blur
+INFO 1/17/2024, 10:40:09 AM  [focus] 1
+INFO 1/17/2024, 10:40:09 AM  [blur] 1
+INFO 1/17/2024, 10:40:09 AM  [win] blur
+INFO 1/17/2024, 11:02:35 AM  [focus] 1
+INFO 1/17/2024, 11:02:40 AM  [blur] 1
+INFO 1/17/2024, 11:02:40 AM  [win] blur
+INFO 1/17/2024, 11:02:40 AM  [focus] 1
+INFO 1/17/2024, 11:02:41 AM  [blur] 1
+INFO 1/17/2024, 11:02:41 AM  [win] blur
+INFO 1/17/2024, 11:03:26 AM  [focus] 1
+INFO 1/17/2024, 11:03:26 AM  [blur] 1
+INFO 1/17/2024, 11:03:26 AM  [win] blur
+INFO 1/17/2024, 11:03:26 AM  [focus] 1
+INFO 1/17/2024, 11:03:41 AM  synced recovery
+INFO 1/17/2024, 11:03:41 AM  ----------------before-quit-----------------
+INFO 1/17/2024, 11:03:41 AM  ------------------will-quit------------------
+INFO 1/17/2024, 11:03:41 AM  -----------------quit------------------
+INFO 1/17/2024, 11:03:41 AM  closeLogging
+INFO 1/17/2024, 11:03:44 AM  launch with argv [/usr/share/typora/Typora]
+INFO 1/17/2024, 11:03:45 AM  start LM in devVersion=false
+INFO 1/17/2024, 11:03:45 AM  [Raven] instanceKey = cb78b4b5-3c1b-4cbd-a56d-7424edd46f29
+INFO 1/17/2024, 11:03:45 AM  [watch L]
+INFO 1/17/2024, 11:03:45 AM  ls put SLicense
+INFO 1/17/2024, 11:03:45 AM  [L] installDate is 1/17/2024, trail remains: 15 days
+INFO 1/17/2024, 11:03:45 AM  [watch L] hasL: false
+INFO 1/17/2024, 11:03:45 AM  ------------------start------------------
+INFO 1/17/2024, 11:03:45 AM  typora version: 1.7.6
+INFO 1/17/2024, 11:03:45 AM  undefined
+user-dict.json not found
+INFO 1/17/2024, 11:03:45 AM  [Raven] userId = 9bd4cce7-cc34-46eb-87f0-cd086ce34a12
+INFO 1/17/2024, 11:03:45 AM  [focus] 1
+INFO 1/17/2024, 11:03:45 AM  synced recovery
+INFO 1/17/2024, 11:03:45 AM  handle document.loadData
+INFO 1/17/2024, 11:03:45 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 1/17/2024, 11:03:45 AM  [RenderProcess 1][Log] reset NodeMap
+INFO 1/17/2024, 11:03:45 AM  synced recovery
+INFO 1/17/2024, 11:03:46 AM  [RenderProcess 1][Log] onBecomeActive
+INFO 1/17/2024, 11:03:46 AM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/17/2024, 11:03:53 AM  updateTheme
+INFO 1/17/2024, 11:04:16 AM  synced recovery
+INFO 1/17/2024, 11:04:19 AM  synced recovery
+INFO 1/17/2024, 11:04:21 AM  synced recovery
+INFO 1/17/2024, 11:04:25 AM  synced recovery
+INFO 1/17/2024, 11:04:46 AM  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+INFO 1/17/2024, 11:04:50 AM  [blur] 1
+INFO 1/17/2024, 11:04:50 AM  [win] blur
+INFO 1/17/2024, 11:04:50 AM  [focus] 2
+INFO 1/17/2024, 11:04:50 AM  [blur] 2
+INFO 1/17/2024, 11:04:50 AM  [focus] 1
+INFO 1/17/2024, 11:04:50 AM  [blur] 1
+INFO 1/17/2024, 11:04:50 AM  [win] blur
+INFO 1/17/2024, 11:04:50 AM  [focus] 2
+INFO 1/17/2024, 11:04:50 AM  [blur] 2
+INFO 1/17/2024, 11:04:50 AM  [focus] 1
+INFO 1/17/2024, 11:04:51 AM  [blur] 1
+INFO 1/17/2024, 11:04:51 AM  [win] blur
+INFO 1/17/2024, 11:04:51 AM  [focus] 2
+INFO 1/17/2024, 11:04:53 AM  [focus] 1
+INFO 1/17/2024, 11:04:53 AM  [blur] 1
+INFO 1/17/2024, 11:04:53 AM  [win] blur
+INFO 1/17/2024, 11:04:53 AM  [focus] 1
+INFO 1/17/2024, 11:06:01 AM  synced recovery
+INFO 1/17/2024, 11:06:03 AM  [blur] 1
+INFO 1/17/2024, 11:06:03 AM  [win] blur
+INFO 1/17/2024, 11:06:03 AM  [focus] 1
+INFO 1/17/2024, 11:06:03 AM  [blur] 1
+INFO 1/17/2024, 11:06:03 AM  [win] blur
+INFO 1/17/2024, 11:06:03 AM  [focus] 1
+INFO 1/17/2024, 11:06:03 AM  [blur] 1
+INFO 1/17/2024, 11:06:03 AM  [win] blur
+INFO 1/17/2024, 11:06:03 AM  [focus] 1
+INFO 1/17/2024, 11:06:03 AM  [blur] 1
+INFO 1/17/2024, 11:06:03 AM  [win] blur
+INFO 1/17/2024, 11:06:03 AM  [focus] 1
+INFO 1/17/2024, 11:06:04 AM  [blur] 1
+INFO 1/17/2024, 11:06:04 AM  [win] blur
+INFO 1/17/2024, 11:06:04 AM  [focus] 1
+INFO 1/17/2024, 11:06:04 AM  [blur] 1
+INFO 1/17/2024, 11:06:04 AM  [win] blur
+INFO 1/17/2024, 11:06:04 AM  [focus] 1
+INFO 1/17/2024, 11:06:15 AM  [blur] 1
+INFO 1/17/2024, 11:06:15 AM  [win] blur
+INFO 1/17/2024, 11:06:15 AM  [focus] 1
+INFO 1/17/2024, 11:06:16 AM  [blur] 1
+INFO 1/17/2024, 11:06:16 AM  [win] blur
+INFO 1/17/2024, 11:06:16 AM  [focus] 1
+INFO 1/17/2024, 11:06:17 AM  [blur] 1
+INFO 1/17/2024, 11:06:17 AM  [win] blur
+INFO 1/17/2024, 11:06:17 AM  [focus] 1
+INFO 1/17/2024, 11:06:21 AM  [blur] 1
+INFO 1/17/2024, 11:06:21 AM  [win] blur
+INFO 1/17/2024, 11:06:21 AM  [focus] 1
+INFO 1/17/2024, 11:06:22 AM  [blur] 1
+INFO 1/17/2024, 11:06:22 AM  [win] blur
+INFO 1/17/2024, 11:06:22 AM  [focus] 1
+INFO 1/17/2024, 11:06:22 AM  [blur] 1
+INFO 1/17/2024, 11:06:22 AM  [win] blur
+INFO 1/17/2024, 11:06:22 AM  [focus] 1
+INFO 1/17/2024, 11:06:23 AM  [blur] 1
+INFO 1/17/2024, 11:06:23 AM  [win] blur
+INFO 1/17/2024, 11:06:23 AM  [focus] 1
+INFO 1/17/2024, 11:06:23 AM  [blur] 1
+INFO 1/17/2024, 11:06:23 AM  [win] blur
+INFO 1/17/2024, 11:06:23 AM  [focus] 1
+INFO 1/17/2024, 11:06:40 AM  synced recovery
+INFO 1/17/2024, 11:06:40 AM  [blur] 1
+INFO 1/17/2024, 11:06:40 AM  [win] blur
+INFO 1/17/2024, 11:07:06 AM  [focus] 1
+INFO 1/17/2024, 11:07:23 AM  [blur] 1
+INFO 1/17/2024, 11:07:23 AM  [win] blur
+INFO 1/17/2024, 11:08:17 AM  [focus] 1
+INFO 1/17/2024, 11:08:19 AM  [blur] 1
+INFO 1/17/2024, 11:08:19 AM  [win] blur
+INFO 1/17/2024, 11:09:35 AM  [focus] 1
+INFO 1/17/2024, 11:09:39 AM  synced recovery
+INFO 1/17/2024, 11:09:39 AM  ----------------before-quit-----------------
+INFO 1/17/2024, 11:09:39 AM  ------------------will-quit------------------
+INFO 1/17/2024, 11:09:39 AM  -----------------quit------------------
+INFO 1/17/2024, 11:09:39 AM  closeLogging
+INFO 1/17/2024, 11:09:42 AM  launch with argv [/usr/share/typora/Typora]
+INFO 1/17/2024, 11:09:43 AM  start LM in devVersion=false
+INFO 1/17/2024, 11:09:43 AM  [Raven] instanceKey = 8524eb2e-7196-499f-a1cf-50407f57feaf
+INFO 1/17/2024, 11:09:43 AM  [watch L]
+INFO 1/17/2024, 11:09:43 AM  ls put SLicense
+INFO 1/17/2024, 11:09:43 AM  [L] installDate is 1/17/2024, trail remains: 15 days
+INFO 1/17/2024, 11:09:43 AM  [watch L] hasL: false
+INFO 1/17/2024, 11:09:43 AM  ------------------start------------------
+INFO 1/17/2024, 11:09:43 AM  typora version: 1.7.6
+INFO 1/17/2024, 11:09:43 AM  undefined
+user-dict.json not found
+INFO 1/17/2024, 11:09:43 AM  [Raven] userId = 9bd4cce7-cc34-46eb-87f0-cd086ce34a12
+INFO 1/17/2024, 11:09:43 AM  [focus] 1
+INFO 1/17/2024, 11:09:43 AM  synced recovery
+INFO 1/17/2024, 11:09:43 AM  [blur] 1
+INFO 1/17/2024, 11:09:43 AM  [win] blur
+INFO 1/17/2024, 11:09:43 AM  [focus] 2
+INFO 1/17/2024, 11:09:43 AM  handle document.loadData
+INFO 1/17/2024, 11:09:43 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 1/17/2024, 11:09:43 AM  [RenderProcess 1][Log] reset NodeMap
+INFO 1/17/2024, 11:09:43 AM  synced recovery
+INFO 1/17/2024, 11:09:44 AM  [RenderProcess 1][Log] onBecomeActive
+INFO 1/17/2024, 11:09:44 AM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/17/2024, 11:09:45 AM  [focus] 1
+INFO 1/17/2024, 11:09:45 AM  [blur] 1
+INFO 1/17/2024, 11:09:45 AM  [win] blur
+INFO 1/17/2024, 11:09:45 AM  [focus] 1
+INFO 1/17/2024, 11:09:46 AM  [blur] 1
+INFO 1/17/2024, 11:09:46 AM  [win] blur
+INFO 1/17/2024, 11:09:46 AM  [focus] 3
+INFO 1/17/2024, 11:09:46 AM  [blur] 3
+INFO 1/17/2024, 11:09:46 AM  [focus] 1
+INFO 1/17/2024, 11:09:47 AM  [blur] 1
+INFO 1/17/2024, 11:09:47 AM  [win] blur
+INFO 1/17/2024, 11:09:47 AM  [focus] 3
+INFO 1/17/2024, 11:09:48 AM  [focus] 1
+INFO 1/17/2024, 11:09:48 AM  [blur] 1
+INFO 1/17/2024, 11:09:48 AM  [win] blur
+INFO 1/17/2024, 11:09:48 AM  [focus] 1
+INFO 1/17/2024, 11:09:52 AM  [blur] 1
+INFO 1/17/2024, 11:09:52 AM  [win] blur
+INFO 1/17/2024, 11:09:52 AM  [focus] 1
+INFO 1/17/2024, 11:09:54 AM  [blur] 1
+INFO 1/17/2024, 11:09:54 AM  [win] blur
+INFO 1/17/2024, 11:09:54 AM  [focus] 1
+INFO 1/17/2024, 11:09:54 AM  [blur] 1
+INFO 1/17/2024, 11:09:54 AM  [win] blur
+INFO 1/17/2024, 11:09:54 AM  [focus] 1
+INFO 1/17/2024, 11:09:55 AM  [blur] 1
+INFO 1/17/2024, 11:09:55 AM  [win] blur
+INFO 1/17/2024, 11:09:55 AM  [focus] 1
+INFO 1/17/2024, 11:09:57 AM  [blur] 1
+INFO 1/17/2024, 11:09:57 AM  [win] blur
+INFO 1/17/2024, 11:10:02 AM  [focus] 1
+INFO 1/17/2024, 11:10:03 AM  [blur] 1
+INFO 1/17/2024, 11:10:03 AM  [win] blur
+INFO 1/17/2024, 11:10:03 AM  [focus] 1
+INFO 1/17/2024, 11:10:03 AM  [blur] 1
+INFO 1/17/2024, 11:10:03 AM  [win] blur
+INFO 1/17/2024, 11:10:03 AM  [focus] 1
+INFO 1/17/2024, 11:10:03 AM  [blur] 1
+INFO 1/17/2024, 11:10:03 AM  [win] blur
+INFO 1/17/2024, 11:11:05 AM  [focus] 1
+INFO 1/17/2024, 11:11:06 AM  [blur] 1
+INFO 1/17/2024, 11:11:06 AM  [win] blur
+INFO 1/17/2024, 11:11:07 AM  [focus] 1
+INFO 1/17/2024, 11:11:08 AM  [blur] 1
+INFO 1/17/2024, 11:11:08 AM  [win] blur
+INFO 1/17/2024, 11:11:08 AM  [focus] 1
+INFO 1/17/2024, 11:11:10 AM  [blur] 1
+INFO 1/17/2024, 11:11:10 AM  [win] blur
+INFO 1/17/2024, 11:11:10 AM  [focus] 1
+INFO 1/17/2024, 11:11:10 AM  [blur] 1
+INFO 1/17/2024, 11:11:10 AM  [win] blur
+INFO 1/17/2024, 11:11:10 AM  [focus] 1
+INFO 1/17/2024, 11:11:12 AM  [blur] 1
+INFO 1/17/2024, 11:11:12 AM  [win] blur
+INFO 1/17/2024, 11:11:12 AM  [focus] 1
+INFO 1/17/2024, 11:11:13 AM  [blur] 1
+INFO 1/17/2024, 11:11:13 AM  [win] blur
+INFO 1/17/2024, 11:12:11 AM  [focus] 1
+INFO 1/17/2024, 11:12:12 AM  [blur] 1
+INFO 1/17/2024, 11:12:12 AM  [win] blur
+INFO 1/17/2024, 11:12:12 AM  [focus] 1
+INFO 1/17/2024, 11:12:13 AM  [blur] 1
+INFO 1/17/2024, 11:12:13 AM  [win] blur
+INFO 1/17/2024, 11:12:14 AM  [focus] 1
+INFO 1/17/2024, 11:12:14 AM  [blur] 1
+INFO 1/17/2024, 11:12:14 AM  [win] blur
+INFO 1/17/2024, 11:12:18 AM  [focus] 1
+INFO 1/17/2024, 11:12:19 AM  [blur] 1
+INFO 1/17/2024, 11:12:19 AM  [win] blur
+INFO 1/17/2024, 11:12:19 AM  [focus] 1
+INFO 1/17/2024, 11:12:20 AM  [blur] 1
+INFO 1/17/2024, 11:12:20 AM  [win] blur
+INFO 1/17/2024, 11:12:20 AM  [focus] 1
+INFO 1/17/2024, 11:12:21 AM  [blur] 1
+INFO 1/17/2024, 11:12:21 AM  [win] blur
+INFO 1/17/2024, 11:12:21 AM  [focus] 1
+INFO 1/17/2024, 11:12:21 AM  [blur] 1
+INFO 1/17/2024, 11:12:21 AM  [win] blur
+INFO 1/17/2024, 11:12:21 AM  [focus] 1
+INFO 1/17/2024, 11:12:21 AM  [blur] 1
+INFO 1/17/2024, 11:12:21 AM  [win] blur
+INFO 1/17/2024, 11:12:21 AM  [focus] 1
+INFO 1/17/2024, 11:12:22 AM  [blur] 1
+INFO 1/17/2024, 11:12:22 AM  [win] blur
+INFO 1/17/2024, 11:12:22 AM  [focus] 1
+INFO 1/17/2024, 11:12:22 AM  [blur] 1
+INFO 1/17/2024, 11:12:22 AM  [win] blur
+INFO 1/17/2024, 11:12:22 AM  [focus] 1
+INFO 1/17/2024, 11:12:23 AM  [blur] 1
+INFO 1/17/2024, 11:12:23 AM  [win] blur
+INFO 1/17/2024, 11:12:23 AM  [focus] 1
+INFO 1/17/2024, 11:12:23 AM  [blur] 1
+INFO 1/17/2024, 11:12:23 AM  [win] blur
+INFO 1/17/2024, 11:13:06 AM  [focus] 1
+INFO 1/17/2024, 11:13:06 AM  [blur] 1
+INFO 1/17/2024, 11:13:06 AM  [win] blur
+INFO 1/17/2024, 11:13:07 AM  [focus] 1
+INFO 1/17/2024, 11:13:08 AM  [blur] 1
+INFO 1/17/2024, 11:13:08 AM  [win] blur
+INFO 1/17/2024, 11:13:16 AM  [focus] 1
+INFO 1/17/2024, 11:13:16 AM  [blur] 1
+INFO 1/17/2024, 11:13:16 AM  [win] blur
+INFO 1/17/2024, 11:13:19 AM  [focus] 1
+INFO 1/17/2024, 11:13:19 AM  [blur] 1
+INFO 1/17/2024, 11:13:19 AM  [win] blur
+INFO 1/17/2024, 11:13:58 AM  [focus] 1
+INFO 1/17/2024, 11:13:58 AM  [blur] 1
+INFO 1/17/2024, 11:13:58 AM  [win] blur
+INFO 1/17/2024, 11:14:07 AM  [focus] 1
+INFO 1/17/2024, 11:14:07 AM  [blur] 1
+INFO 1/17/2024, 11:14:07 AM  [win] blur
+INFO 1/17/2024, 11:15:07 AM  [focus] 1
+INFO 1/17/2024, 11:15:07 AM  [blur] 1
+INFO 1/17/2024, 11:15:07 AM  [win] blur
+INFO 1/17/2024, 11:15:10 AM  [focus] 1
+INFO 1/17/2024, 11:15:11 AM  synced recovery
+INFO 1/17/2024, 11:15:11 AM  ----------------before-quit-----------------
+INFO 1/17/2024, 11:15:11 AM  ------------------will-quit------------------
+INFO 1/17/2024, 11:15:11 AM  -----------------quit------------------
+INFO 1/17/2024, 11:15:11 AM  closeLogging
+INFO 1/17/2024, 11:15:17 AM  launch with argv [/usr/share/typora/Typora]
+INFO 1/17/2024, 11:15:17 AM  start LM in devVersion=false
+INFO 1/17/2024, 11:15:17 AM  [Raven] instanceKey = de49de12-de64-45ff-8be3-1281b5f125cc
+INFO 1/17/2024, 11:15:17 AM  [watch L]
+INFO 1/17/2024, 11:15:17 AM  ls put SLicense
+INFO 1/17/2024, 11:15:17 AM  [L] installDate is 1/17/2024, trail remains: 15 days
+INFO 1/17/2024, 11:15:17 AM  [watch L] hasL: false
+INFO 1/17/2024, 11:15:17 AM  ------------------start------------------
+INFO 1/17/2024, 11:15:17 AM  typora version: 1.7.6
+INFO 1/17/2024, 11:15:17 AM  undefined
+user-dict.json not found
+INFO 1/17/2024, 11:15:17 AM  [Raven] userId = 9bd4cce7-cc34-46eb-87f0-cd086ce34a12
+INFO 1/17/2024, 11:15:17 AM  [focus] 2
+INFO 1/17/2024, 11:15:17 AM  synced recovery
+INFO 1/17/2024, 11:15:17 AM  [blur] 2
+INFO 1/17/2024, 11:15:17 AM  [win] blur
+INFO 1/17/2024, 11:15:17 AM  [focus] 1
+INFO 1/17/2024, 11:15:18 AM  [blur] 1
+INFO 1/17/2024, 11:15:18 AM  [focus] 2
+INFO 1/17/2024, 11:15:18 AM  handle document.loadData
+INFO 1/17/2024, 11:15:18 AM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 1/17/2024, 11:15:18 AM  [RenderProcess 2][Log] reset NodeMap
+INFO 1/17/2024, 11:15:18 AM  [blur] 2
+INFO 1/17/2024, 11:15:18 AM  [win] blur
+INFO 1/17/2024, 11:15:18 AM  [focus] 1
+INFO 1/17/2024, 11:15:18 AM  synced recovery
+INFO 1/17/2024, 11:15:18 AM  [RenderProcess 2][Log] onBecomeActive
+INFO 1/17/2024, 11:15:18 AM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 1/17/2024, 11:15:19 AM  [focus] 2
+INFO 1/17/2024, 11:15:19 AM  [blur] 2
+INFO 1/17/2024, 11:15:19 AM  [win] blur
+INFO 1/17/2024, 11:15:19 AM  [focus] 2
+INFO 1/17/2024, 11:15:20 AM  [blur] 2
+INFO 1/17/2024, 11:15:20 AM  [win] blur
+INFO 1/17/2024, 11:15:20 AM  [focus] 2
+INFO 1/17/2024, 11:15:23 AM  synced recovery
+INFO 1/17/2024, 11:15:24 AM  synced recovery
+INFO 1/17/2024, 11:15:26 AM  [blur] 2
+INFO 1/17/2024, 11:15:26 AM  [win] blur
+INFO 1/17/2024, 11:15:26 AM  [focus] 2
+INFO 1/17/2024, 11:15:26 AM  [blur] 2
+INFO 1/17/2024, 11:15:26 AM  [win] blur
+INFO 1/17/2024, 11:15:26 AM  [focus] 2
+INFO 1/17/2024, 11:15:28 AM  synced recovery
+INFO 1/17/2024, 11:15:28 AM  ----------------before-quit-----------------
+INFO 1/17/2024, 11:15:28 AM  ------------------will-quit------------------
+INFO 1/17/2024, 11:15:28 AM  -----------------quit------------------
+INFO 1/17/2024, 11:15:28 AM  closeLogging
+INFO 1/17/2024, 11:15:38 AM  launch with argv [/usr/share/typora/Typora]
+INFO 1/17/2024, 11:15:38 AM  start LM in devVersion=false
+INFO 1/17/2024, 11:15:38 AM  [Raven] instanceKey = c478d8b4-d25a-4e03-a32b-14066f49d98e
+INFO 1/17/2024, 11:15:38 AM  [watch L]
+INFO 1/17/2024, 11:15:38 AM  ls put SLicense
+INFO 1/17/2024, 11:15:38 AM  [L] installDate is 1/17/2024, trail remains: 15 days
+INFO 1/17/2024, 11:15:38 AM  [watch L] hasL: false
+INFO 1/17/2024, 11:15:38 AM  ------------------start------------------
+INFO 1/17/2024, 11:15:38 AM  typora version: 1.7.6
+INFO 1/17/2024, 11:15:38 AM  undefined
+user-dict.json not found
+INFO 1/17/2024, 11:15:38 AM  [Raven] userId = 9bd4cce7-cc34-46eb-87f0-cd086ce34a12
+INFO 1/17/2024, 11:15:38 AM  [focus] 1
+INFO 1/17/2024, 11:15:38 AM  synced recovery
+INFO 1/17/2024, 11:15:39 AM  handle document.loadData
+INFO 1/17/2024, 11:15:39 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 1/17/2024, 11:15:39 AM  [RenderProcess 1][Log] reset NodeMap
+INFO 1/17/2024, 11:15:39 AM  synced recovery
+INFO 1/17/2024, 11:15:39 AM  [RenderProcess 1][Log] onBecomeActive
+INFO 1/17/2024, 11:15:39 AM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/17/2024, 11:15:42 AM  [blur] 1
+INFO 1/17/2024, 11:15:42 AM  [win] blur
+INFO 1/17/2024, 11:15:43 AM  [focus] 1
+INFO 1/17/2024, 11:15:43 AM  synced recovery
+INFO 1/17/2024, 11:15:43 AM  ----------------before-quit-----------------
+INFO 1/17/2024, 11:15:43 AM  ------------------will-quit------------------
+INFO 1/17/2024, 11:15:43 AM  -----------------quit------------------
+INFO 1/17/2024, 11:15:43 AM  closeLogging
+INFO 1/17/2024, 11:15:57 AM  launch with argv [/usr/share/typora/Typora]
+INFO 1/17/2024, 11:15:57 AM  start LM in devVersion=false
+INFO 1/17/2024, 11:15:57 AM  [Raven] instanceKey = 12cc0a62-97d2-4391-9098-1521d9494e5b
+INFO 1/17/2024, 11:15:57 AM  [watch L]
+INFO 1/17/2024, 11:15:57 AM  ls put SLicense
+INFO 1/17/2024, 11:15:57 AM  [L] installDate is 1/17/2024, trail remains: 15 days
+INFO 1/17/2024, 11:15:57 AM  [watch L] hasL: false
+INFO 1/17/2024, 11:15:57 AM  ------------------start------------------
+INFO 1/17/2024, 11:15:57 AM  typora version: 1.7.6
+INFO 1/17/2024, 11:15:57 AM  undefined
+user-dict.json not found
+INFO 1/17/2024, 11:15:57 AM  [Raven] userId = 9bd4cce7-cc34-46eb-87f0-cd086ce34a12
+INFO 1/17/2024, 11:15:57 AM  [focus] 1
+INFO 1/17/2024, 11:15:57 AM  synced recovery
+INFO 1/17/2024, 11:15:58 AM  handle document.loadData
+INFO 1/17/2024, 11:15:58 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 1/17/2024, 11:15:58 AM  [RenderProcess 1][Log] reset NodeMap
+INFO 1/17/2024, 11:15:58 AM  synced recovery
+INFO 1/17/2024, 11:15:58 AM  [RenderProcess 1][Log] onBecomeActive
+INFO 1/17/2024, 11:15:58 AM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/17/2024, 11:16:00 AM  [blur] 1
+INFO 1/17/2024, 11:16:00 AM  [win] blur
+INFO 1/17/2024, 11:16:00 AM  [focus] 1
+INFO 1/17/2024, 11:16:01 AM  synced recovery
+INFO 1/17/2024, 11:16:01 AM  ----------------before-quit-----------------
+INFO 1/17/2024, 11:16:01 AM  ------------------will-quit------------------
+INFO 1/17/2024, 11:16:01 AM  -----------------quit------------------
+INFO 1/17/2024, 11:16:01 AM  closeLogging
+INFO 1/17/2024, 11:16:06 AM  launch with argv [/usr/share/typora/Typora]
+INFO 1/17/2024, 11:16:06 AM  start LM in devVersion=false
+INFO 1/17/2024, 11:16:06 AM  [Raven] instanceKey = 97f937a8-9ef0-4ff3-abc7-de93114076a3
+INFO 1/17/2024, 11:16:06 AM  [watch L]
+INFO 1/17/2024, 11:16:06 AM  ls put SLicense
+INFO 1/17/2024, 11:16:06 AM  [L] installDate is 1/17/2024, trail remains: 15 days
+INFO 1/17/2024, 11:16:06 AM  [watch L] hasL: false
+INFO 1/17/2024, 11:16:06 AM  ------------------start------------------
+INFO 1/17/2024, 11:16:06 AM  typora version: 1.7.6
+INFO 1/17/2024, 11:16:06 AM  undefined
+user-dict.json not found
+INFO 1/17/2024, 11:16:06 AM  [Raven] userId = 9bd4cce7-cc34-46eb-87f0-cd086ce34a12
+INFO 1/17/2024, 11:16:06 AM  [focus] 1
+INFO 1/17/2024, 11:16:06 AM  synced recovery
+INFO 1/17/2024, 11:16:07 AM  handle document.loadData
+INFO 1/17/2024, 11:16:07 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 1/17/2024, 11:16:07 AM  [RenderProcess 1][Log] reset NodeMap
+INFO 1/17/2024, 11:16:07 AM  synced recovery
+INFO 1/17/2024, 11:16:07 AM  [RenderProcess 1][Log] onBecomeActive
+INFO 1/17/2024, 11:16:07 AM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/17/2024, 11:16:10 AM  synced recovery
+INFO 1/17/2024, 11:16:12 AM  [blur] 1
+INFO 1/17/2024, 11:16:12 AM  [win] blur
+INFO 1/17/2024, 11:16:12 AM  [focus] 1
+INFO 1/17/2024, 11:16:12 AM  [blur] 1
+INFO 1/17/2024, 11:16:12 AM  [win] blur
+INFO 1/17/2024, 11:16:12 AM  [focus] 1
+INFO 1/17/2024, 11:16:23 AM  [blur] 1
+INFO 1/17/2024, 11:16:23 AM  [win] blur
+INFO 1/17/2024, 11:16:23 AM  [focus] 1
+INFO 1/17/2024, 11:16:24 AM  [blur] 1
+INFO 1/17/2024, 11:16:24 AM  [win] blur
+INFO 1/17/2024, 11:16:24 AM  [focus] 1
+INFO 1/17/2024, 11:16:24 AM  [blur] 1
+INFO 1/17/2024, 11:16:24 AM  [win] blur
+INFO 1/17/2024, 11:16:24 AM  [focus] 1
+INFO 1/17/2024, 11:16:24 AM  [blur] 1
+INFO 1/17/2024, 11:16:24 AM  [win] blur
+INFO 1/17/2024, 11:16:24 AM  [focus] 1
+INFO 1/17/2024, 11:16:25 AM  [blur] 1
+INFO 1/17/2024, 11:16:25 AM  [win] blur
+INFO 1/17/2024, 11:16:25 AM  [focus] 1
+INFO 1/17/2024, 11:16:25 AM  [blur] 1
+INFO 1/17/2024, 11:16:25 AM  [win] blur
+INFO 1/17/2024, 11:16:25 AM  [focus] 1
+INFO 1/17/2024, 11:16:25 AM  [blur] 1
+INFO 1/17/2024, 11:16:25 AM  [win] blur
+INFO 1/17/2024, 11:16:31 AM  [focus] 1
+INFO 1/17/2024, 11:16:40 AM  [blur] 1
+INFO 1/17/2024, 11:16:40 AM  [win] blur
+INFO 1/17/2024, 11:17:07 AM  [focus] 1
+INFO 1/17/2024, 11:17:10 AM  [blur] 1
+INFO 1/17/2024, 11:17:10 AM  [win] blur
+INFO 1/17/2024, 11:17:24 AM  [focus] 1
+INFO 1/17/2024, 11:17:26 AM  [blur] 1
+INFO 1/17/2024, 11:17:26 AM  [win] blur
+INFO 1/17/2024, 11:17:31 AM  [focus] 1
+INFO 1/17/2024, 11:17:32 AM  [blur] 1
+INFO 1/17/2024, 11:17:32 AM  [win] blur
+INFO 1/17/2024, 11:17:47 AM  [focus] 1
+INFO 1/17/2024, 11:17:52 AM  [blur] 1
+INFO 1/17/2024, 11:17:52 AM  [win] blur
+INFO 1/17/2024, 11:17:53 AM  [focus] 1
+INFO 1/17/2024, 11:17:53 AM  [blur] 1
+INFO 1/17/2024, 11:17:53 AM  [win] blur
+INFO 1/17/2024, 11:17:53 AM  [focus] 1
+INFO 1/17/2024, 11:17:54 AM  [blur] 1
+INFO 1/17/2024, 11:17:54 AM  [win] blur
+INFO 1/17/2024, 11:17:54 AM  [focus] 1
+INFO 1/17/2024, 11:17:54 AM  [blur] 1
+INFO 1/17/2024, 11:17:54 AM  [win] blur
+INFO 1/17/2024, 11:17:54 AM  [focus] 1
+INFO 1/17/2024, 11:17:55 AM  [blur] 1
+INFO 1/17/2024, 11:17:55 AM  [win] blur
+INFO 1/17/2024, 11:17:55 AM  [focus] 1
+INFO 1/17/2024, 11:17:56 AM  [blur] 1
+INFO 1/17/2024, 11:17:56 AM  [win] blur
+INFO 1/17/2024, 11:17:56 AM  [focus] 1
+INFO 1/17/2024, 11:17:56 AM  [blur] 1
+INFO 1/17/2024, 11:17:56 AM  [win] blur
+INFO 1/17/2024, 11:17:56 AM  [focus] 1
+INFO 1/17/2024, 11:17:57 AM  [blur] 1
+INFO 1/17/2024, 11:17:57 AM  [win] blur
+INFO 1/17/2024, 11:19:45 AM  [focus] 1
+INFO 1/17/2024, 11:19:51 AM  [blur] 1
+INFO 1/17/2024, 11:19:51 AM  [win] blur
+INFO 1/17/2024, 11:19:51 AM  [focus] 1
+INFO 1/17/2024, 11:19:51 AM  [blur] 1
+INFO 1/17/2024, 11:19:51 AM  [win] blur
+INFO 1/17/2024, 11:19:51 AM  [focus] 1
+INFO 1/17/2024, 11:19:52 AM  [blur] 1
+INFO 1/17/2024, 11:19:52 AM  [win] blur
+INFO 1/17/2024, 11:19:52 AM  [focus] 1
+INFO 1/17/2024, 11:19:52 AM  [blur] 1
+INFO 1/17/2024, 11:19:52 AM  [win] blur
+INFO 1/17/2024, 11:19:52 AM  [focus] 1
+INFO 1/17/2024, 11:19:53 AM  [blur] 1
+INFO 1/17/2024, 11:19:53 AM  [win] blur
+INFO 1/17/2024, 11:20:00 AM  [focus] 1
+INFO 1/17/2024, 11:20:06 AM  [blur] 1
+INFO 1/17/2024, 11:20:06 AM  [win] blur
+INFO 1/17/2024, 11:20:06 AM  [focus] 1
+INFO 1/17/2024, 11:20:06 AM  [blur] 1
+INFO 1/17/2024, 11:20:06 AM  [win] blur
+INFO 1/17/2024, 11:20:06 AM  [focus] 1
+INFO 1/17/2024, 11:20:07 AM  [blur] 1
+INFO 1/17/2024, 11:20:07 AM  [win] blur
+INFO 1/17/2024, 11:20:07 AM  [focus] 1
+INFO 1/17/2024, 11:20:08 AM  [blur] 1
+INFO 1/17/2024, 11:20:08 AM  [win] blur
+INFO 1/17/2024, 11:20:08 AM  [focus] 1
+INFO 1/17/2024, 11:20:09 AM  [blur] 1
+INFO 1/17/2024, 11:20:09 AM  [win] blur
+INFO 1/17/2024, 11:20:56 AM  [focus] 1
+INFO 1/17/2024, 11:20:56 AM  [blur] 1
+INFO 1/17/2024, 11:20:56 AM  [win] blur
+INFO 1/17/2024, 11:22:26 AM  [focus] 1
+INFO 1/17/2024, 11:22:30 AM  [blur] 1
+INFO 1/17/2024, 11:22:30 AM  [win] blur
+INFO 1/17/2024, 11:22:30 AM  [focus] 1
+INFO 1/17/2024, 11:22:31 AM  [blur] 1
+INFO 1/17/2024, 11:22:31 AM  [win] blur
+INFO 1/17/2024, 11:22:31 AM  [focus] 1
+INFO 1/17/2024, 11:22:31 AM  [blur] 1
+INFO 1/17/2024, 11:22:31 AM  [win] blur
+INFO 1/17/2024, 11:22:31 AM  [focus] 1
+INFO 1/17/2024, 11:22:32 AM  [blur] 1
+INFO 1/17/2024, 11:22:32 AM  [win] blur
+INFO 1/17/2024, 11:22:32 AM  [focus] 1
+INFO 1/17/2024, 11:22:33 AM  [blur] 1
+INFO 1/17/2024, 11:22:33 AM  [win] blur
+INFO 1/17/2024, 11:22:41 AM  [focus] 1
+INFO 1/17/2024, 11:22:49 AM  [blur] 1
+INFO 1/17/2024, 11:22:49 AM  [win] blur
+INFO 1/17/2024, 11:22:49 AM  [focus] 1
+INFO 1/17/2024, 11:22:49 AM  synced recovery
+INFO 1/17/2024, 11:22:50 AM  [blur] 1
+INFO 1/17/2024, 11:22:50 AM  [win] blur
+INFO 1/17/2024, 11:22:50 AM  [focus] 1
+INFO 1/17/2024, 11:22:50 AM  [blur] 1
+INFO 1/17/2024, 11:22:50 AM  [win] blur
+INFO 1/17/2024, 11:22:50 AM  [focus] 1
+INFO 1/17/2024, 11:22:51 AM  [blur] 1
+INFO 1/17/2024, 11:22:51 AM  [win] blur
+INFO 1/17/2024, 11:22:51 AM  [focus] 1
+INFO 1/17/2024, 11:22:51 AM  [blur] 1
+INFO 1/17/2024, 11:22:51 AM  [win] blur
+INFO 1/17/2024, 11:23:05 AM  [focus] 1
+INFO 1/17/2024, 11:23:12 AM  [blur] 1
+INFO 1/17/2024, 11:23:12 AM  [win] blur
+INFO 1/17/2024, 11:23:12 AM  [focus] 1
+INFO 1/17/2024, 11:23:13 AM  [blur] 1
+INFO 1/17/2024, 11:23:13 AM  [win] blur
+INFO 1/17/2024, 11:23:13 AM  [focus] 1
+INFO 1/17/2024, 11:23:13 AM  [blur] 1
+INFO 1/17/2024, 11:23:13 AM  [win] blur
+INFO 1/17/2024, 11:23:16 AM  [focus] 1
+INFO 1/17/2024, 11:23:16 AM  [blur] 1
+INFO 1/17/2024, 11:23:16 AM  [win] blur
+INFO 1/17/2024, 11:23:23 AM  [focus] 1
+INFO 1/17/2024, 11:23:27 AM  [blur] 1
+INFO 1/17/2024, 11:23:27 AM  [win] blur
+INFO 1/17/2024, 11:24:17 AM  [focus] 1
+INFO 1/17/2024, 11:24:24 AM  synced recovery
+INFO 1/17/2024, 11:24:24 AM  ----------------before-quit-----------------
+INFO 1/17/2024, 11:24:24 AM  ------------------will-quit------------------
+INFO 1/17/2024, 11:24:24 AM  -----------------quit------------------
+INFO 1/17/2024, 11:24:24 AM  closeLogging
+INFO 1/30/2024, 9:26:14 PM  launch with argv [/usr/share/typora/Typora]
+INFO 1/30/2024, 9:26:14 PM  launchFromDiffVersion, pre version is 1.7.6
+INFO 1/30/2024, 9:26:14 PM  start LM in devVersion=false
+INFO 1/30/2024, 9:26:14 PM  [Raven] instanceKey = dd8538e1-b08a-4979-a871-4bc918b4e04f
+INFO 1/30/2024, 9:26:14 PM  [watch L]
+INFO 1/30/2024, 9:26:14 PM  ls put SLicense
+INFO 1/30/2024, 9:26:14 PM  [L] installDate is 1/17/2024, trail remains: 2 days
+INFO 1/30/2024, 9:26:14 PM  [watch L] hasL: false
+INFO 1/30/2024, 9:26:14 PM  cleanupOlderCache
+INFO 1/30/2024, 9:26:15 PM  [Raven] userId = 9bd4cce7-cc34-46eb-87f0-cd086ce34a12
+INFO 1/30/2024, 9:26:15 PM  overwriteThemeFolder
+INFO 1/30/2024, 9:26:15 PM  ------------------start------------------
+INFO 1/30/2024, 9:26:15 PM  typora version: 1.8.5
+INFO 1/30/2024, 9:26:15 PM  undefined
+user-dict.json not found
+INFO 1/30/2024, 9:26:15 PM  [focus] 2
+INFO 1/30/2024, 9:26:15 PM  [blur] 2
+INFO 1/30/2024, 9:26:15 PM  [win] blur
+INFO 1/30/2024, 9:26:15 PM  [focus] 2
+INFO 1/30/2024, 9:26:15 PM  [blur] 2
+INFO 1/30/2024, 9:26:15 PM  [win] blur
+INFO 1/30/2024, 9:26:15 PM  [focus] 2
+INFO 1/30/2024, 9:26:15 PM  synced recovery
+INFO 1/30/2024, 9:26:15 PM  [blur] 2
+INFO 1/30/2024, 9:26:15 PM  [win] blur
+INFO 1/30/2024, 9:26:15 PM  [focus] 1
+INFO 1/30/2024, 9:26:15 PM  [blur] 1
+INFO 1/30/2024, 9:26:15 PM  [focus] 2
+INFO 1/30/2024, 9:26:15 PM  [blur] 2
+INFO 1/30/2024, 9:26:15 PM  [win] blur
+INFO 1/30/2024, 9:26:15 PM  [focus] 1
+INFO 1/30/2024, 9:26:15 PM  [blur] 1
+INFO 1/30/2024, 9:26:15 PM  [focus] 2
+INFO 1/30/2024, 9:26:15 PM  [blur] 2
+INFO 1/30/2024, 9:26:15 PM  [win] blur
+INFO 1/30/2024, 9:26:15 PM  [focus] 1
+INFO 1/30/2024, 9:26:15 PM  handle document.loadData
+ERROR 1/30/2024, 9:26:15 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:50234)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:489:12)
+ERROR 1/30/2024, 9:26:15 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:50234)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:489:12)
+INFO 1/30/2024, 9:26:15 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 1/30/2024, 9:26:15 PM  [RenderProcess 2][Log] reset NodeMap
+INFO 1/30/2024, 9:26:16 PM  synced recovery
+INFO 1/30/2024, 9:26:16 PM  [RenderProcess 2][Log] onBecomeActive
+INFO 1/30/2024, 9:26:16 PM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 1/30/2024, 9:26:17 PM  [focus] 2
+INFO 1/30/2024, 9:26:17 PM  [blur] 2
+INFO 1/30/2024, 9:26:17 PM  [win] blur
+INFO 1/30/2024, 9:26:17 PM  [focus] 2
+INFO 1/30/2024, 9:26:24 PM  [blur] 2
+INFO 1/30/2024, 9:26:24 PM  [win] blur
+INFO 1/30/2024, 9:26:24 PM  [focus] 2
+INFO 1/30/2024, 9:26:24 PM  [blur] 2
+INFO 1/30/2024, 9:26:24 PM  [win] blur
+INFO 1/30/2024, 9:26:30 PM  [focus] 2
+INFO 1/30/2024, 9:26:30 PM  addRecentDocument
+INFO 1/30/2024, 9:26:30 PM  [blur] 2
+INFO 1/30/2024, 9:26:30 PM  [win] blur
+INFO 1/30/2024, 9:26:30 PM  [focus] 2
+INFO 1/30/2024, 9:26:30 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 1/30/2024, 9:26:30 PM  [RenderProcess 2][Log] reset NodeMap
+INFO 1/30/2024, 9:26:30 PM  [RenderProcess 2][Log] readContentFrom /home/garohypr/Documents/Git Experiment/g-notes/blender.md
+INFO 1/30/2024, 9:26:30 PM  synced recovery
+INFO 1/30/2024, 9:26:51 PM  synced recovery
+INFO 1/30/2024, 9:26:51 PM  ----------------before-quit-----------------
+INFO 1/30/2024, 9:26:51 PM  ------------------will-quit------------------
+INFO 1/30/2024, 9:26:51 PM  -----------------quit------------------
+INFO 1/30/2024, 9:26:51 PM  closeLogging

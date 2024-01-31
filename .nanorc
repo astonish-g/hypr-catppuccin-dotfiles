@@ -1,0 +1,16 @@
+set afterends
+set autoindent
+set boldtext
+set softwrap
+set linenumbers
+set nonewlines
+set tabsize 4
+
+set titlecolor bold,red
+set functioncolor bold,red
+set keycolor bold,red
+set selectedcolor bold,white,red
+set numbercolor rosy
+
+# include /usr/share/nano/*.nanorc
+include /home/garohypr/Downloads/nanorc/*.nanorc

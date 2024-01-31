@@ -1,0 +1,76 @@
+#import = [".config/alacritty/fonts-alacritty.toml", ".config/alacritty/themes-alacritty.toml"]
+live_config_reload = true
+
+[cursor]
+blink_interval = 750
+blink_timeout = 5
+unfocused_hollow = false
+
+[cursor.style]
+blinking = "Off"
+shape = "Underline"
+
+[mouse]
+hide_when_typing = true
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[shell]
+program = "/bin/bash"
+
+[window]
+decorations = "none"
+dynamic_padding = true
+dynamic_title = true
+opacity = 0.7
+
+[window.padding]
+x = 20
+y = 10
+
+[colors.bright]
+black = "#5B6078"
+red = "#ED8796"
+green = "#A6DA95"
+yellow = "#EED49F"
+blue = "#8AADF4"
+magenta = "#F5BDE6"
+cyan = "#8BD5CA"
+white = "#A5ADCB"
+
+[colors.normal]
+black = "#494D64"
+red = "#ED8796"
+green = "#A6DA95"
+yellow = "#EED49F"
+blue = "#8AADF4"
+magenta = "#F5BDE6"
+cyan = "#8BD5CA"
+white = "#B8C0E0"
+
+[colors.primary]
+background = "#000000"
+foreground = "#cdd7df"
+
+[font]
+size = 15
+
+[font.normal]
+family = "Maple Mono"
+style = "Regular"
+
+[font.bold]
+family = "Maple Mono"
+style = "Bold"
+
+[font.italic]
+family = "Maple Mono"
+style = "Italic"
+
+[font.bold_italic]
+family = "Maple Mono"
+style = "BoldItalic"
+
+
