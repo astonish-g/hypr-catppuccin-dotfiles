@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Pull changes from Github to local repo folder
+git pull origin main

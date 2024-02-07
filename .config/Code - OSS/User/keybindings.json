@@ -1,0 +1,25 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "alt+l",
+        "command": "settings.cycle.lineNumbers",
+        "when": "editorFocus"
+    },
+    {
+        "key": "alt+i",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "alt+t",
+        "command": "settings.cycle.tabBar",
+        "when": "editorFocus"
+    },
+    {
+        "key": "alt+b",
+        "command": "workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key": "ctrl+b",
+        "command": "-workbench.action.toggleSidebarVisibility"
+    }
+]

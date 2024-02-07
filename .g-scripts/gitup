@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Add newly modified files to commit
+git add . &&
+
+# Commit the modification to Git
+git commit -m "push" &&
+
+# Upload/push to Github repo the modifications
+git push -u origin main

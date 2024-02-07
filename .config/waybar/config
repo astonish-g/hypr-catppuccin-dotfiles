@@ -9,7 +9,7 @@
 
   "custom/apple": {
      "format": "{icon}",
-     "format-icons": "",
+     "format-icons": ""
   },
   
   "hyprland/workspaces": {
@@ -19,7 +19,7 @@
     "format-icons": {
         "default": "",
 	"active": "",
-	"empty": "",
+	"empty": ""
 	},
     "persistent-workspaces": {
       "1": [],
@@ -30,7 +30,7 @@
       "6": [],
       "7": []
     },
-    "disable-click": true,
+    "disable-click": true
   },
  
   "hyprland/window": {

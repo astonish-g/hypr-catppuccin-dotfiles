@@ -1,0 +1,55 @@
+/* Hide title bar minimize, maximize and close buttons*/
+.mod-linux .titlebar-button-container, .mod-windows .titlebar-button-container {
+  display: none;
+}
+
+/* Hide bottom status bar */
+.status-bar {
+  display: none !important;
+}
+
+/* Code Block background colour and border radius */
+.markdown-rendered pre {
+  border-radius: 10px !important;
+  background-color: #2b2c3e !important;
+}
+
+/* Sidebar Toggle button background */
+.sidebar-toggle-button {
+  background: #1e1e2e !important;
+}
+
+/* File explorer background colour */
+.workspace-tabs .workspace-leaf {
+  background: #1e1e2e !important;
+}
+
+/* Tab bar and top bar background colour */
+.workspace-tab-header-container {
+  background-color: #1e1e2e;
+}
+
+/* Left bar hidden - press alt+b to reveal it */
+body > div.app-container > div.horizontal-main-container > div > div.workspace-ribbon.side-dock-ribbon.mod-left.is-collapsed {
+  display: none;
+}
+
+/*Text justify */
+/* reading mode */
+.markdown-preview-view p {
+	text-align: justify;
+	text-justify: inter-word;	
+}
+
+/* Text Justify */
+/* source view and live preview */
+.markdown-source-view.mod-cm6 .cm-line {
+	text-align: justify;
+	text-justify: inter-word;	
+}
+
+/* Center Mermaid Content */
+.mermaid {
+  display: flex !important;
+  justify-content: center;
+}

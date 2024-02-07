@@ -1,0 +1,11 @@
+{
+  "accentColor": "#5b6e8f",
+  "cssTheme": "Catppuccin",
+  "textFontFamily": "Open Sans,Roboto,Maple Mono",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}

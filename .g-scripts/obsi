@@ -1,0 +1,57 @@
+#!/bin/bash
+
+ACTION=${1,,}
+
+# make the local backup
+if [[ $ACTION == "local" ]]; then
+  rm -rf ~/Documents/Obsidian/obsidian-backup-old &&
+  mv ~/Documents/Obsidian/obsidian-backup ~/Documents/Obsidian/obsidian-backup-old &&
+  cp -r ~/Documents/Obsidian/garo-notes ~/Documents/Obsidian/obsidian-backup &&
+  echo "Local backup is completed succesfully!"
+
+# OneDrive backup
+elif [[ $ACTION == "onedrive" ]]; then
+  rm -rf ~/OneDrive/Obsidian/ &&
+  cp -r ~/Documents/Obsidian/ ~/OneDrive/Obsidian/ &&
+  echo "OneDrive backup is completed succesfully!"
+
+#Github Backup push sync
+elif [[ $ACTION == "git" ]]; then
+  cd ~/Documents/Obsidian/garo-notes/ &&
+  git add . &&
+  git commit -m "sync" &&
+  git push -u origin main &&
+  echo  "GitHub push is completed succesfully!"
+
+#Local backup + Git backup
+elif [[ $ACTION == "lg" ]]; then
+  rm -rf ~/Documents/Obsidian/obsidian-backup-old &&
+  mv ~/Documents/Obsidian/obsidian-backup ~/Documents/Obsidian/obsidian-backup-old &&
+  cp -r ~/Documents/Obsidian/garo-notes ~/Documents/Obsidian/obsidian-backup &&
+  echo "Local backup is completed succesfully!"
+  cd ~/Documents/Obsidian/garo-notes/ &&
+  git add . &&
+  git commit -m "sync" &&
+  git push -u origin main &&
+  echo  "GitHub push is completed succesfully!"
+
+# Local backup + OneDrive + Github
+elif [[ $ACTION == "lgo" ]]; then
+  rm -rf ~/Documents/Obsidian/obsidian-backup-old &&
+  mv ~/Documents/Obsidian/obsidian-backup ~/Documents/Obsidian/obsidian-backup-old &&
+  cp -r ~/Documents/Obsidian/garo-notes ~/Documents/Obsidian/obsidian-backup &&
+  echo "Local backup is completed succesfully!"
+  rm -rf ~/OneDrive/Obsidian/ &&
+  cp -r ~/Documents/Obsidian/ ~/OneDrive/Obsidian/ &&
+  echo "OneDrive backup is completed succesfully!"
+  cd ~/Documents/Obsidian/garo-notes/ &&
+  git add . &&
+  git commit -m "sync" &&
+  git push -u origin main &&
+  echo  "GitHub push is completed succesfully!"
+
+#Error message
+else
+  echo "Please enter a valid argument."
+  echo "Use 'local','onedrive', 'git', 'lg' or 'lgo' as an argument."
+fi

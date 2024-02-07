@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+# Reveal my Vim and Neovim Help Notes
+clear
+cat ~/Documents/garo-bash/vim-manual

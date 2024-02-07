@@ -1,0 +1,51 @@
+{
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "editor.fontFamily": "Maple Mono",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.scrollbar.horizontalScrollbarSize": 0,
+    "workbench.statusBar.visible": false,
+    "window.menuBarVisibility": "toggle",
+    "settings.cycle": [{
+        "id": "lineNumbers",
+        "values":[
+            {
+                "editor.lineNumbers": "off",
+                "editor.folding": true,
+                "editor.glyphMargin": false
+            },
+            {
+                "editor.lineNumbers": "on",
+                "editor.folding": true,
+                "editor.glyphMargin": true
+    
+            }
+        ]
+    },
+    {
+        "id": "tabBar",
+        "values":[
+            {
+                "workbench.editor.showTabs": "none"
+            },
+            {
+                "workbench.editor.showTabs": "single"
+            },
+            {
+                "workbench.editor.showTabs": "multiple"
+            }
+        ]
+    }
+],
+"editor.lineNumbers": "on",
+"editor.folding": true,
+"editor.glyphMargin": true,
+"glassit.alpha": 255,
+"breadcrumbs.enabled": false,
+"catppuccin.accentColor": "blue",
+"catppuccin.workbenchMode": "minimal",
+"workbench.editor.showTabs": "multiple",
+"editor.tabSize": 2,
+"workbench.activityBar.location": "hidden"
+}
