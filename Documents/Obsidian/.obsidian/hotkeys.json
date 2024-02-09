@@ -15,14 +15,47 @@
       "key": "T"
     }
   ],
-  "workspace:close-window": [],
-  "workspace:close-others": [
+  "workspace:close-window": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "W"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "emoji-magic:insert": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "snippet-commands-obsidian:snippet-command-hide-top-bar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
     }
   ]
 }

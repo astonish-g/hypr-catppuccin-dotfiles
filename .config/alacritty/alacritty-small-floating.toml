@@ -1,0 +1,78 @@
+#import = [".config/alacritty/fonts-alacritty.toml", ".config/alacritty/themes-alacritty.toml"]
+live_config_reload = true
+
+[cursor]
+blink_interval = 750
+blink_timeout = 5
+unfocused_hollow = false
+
+[cursor.style]
+blinking = "Off"
+shape = "Underline"
+
+[mouse]
+hide_when_typing = true
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[shell]
+program = "/bin/bash"
+
+[window]
+decorations = "none"
+dynamic_padding = true
+dynamic_title = true
+opacity = 0.7
+
+[window.padding]
+x = 20
+y = 10
+
+# THe ones that effects the terminal 
+[colors.bright]
+black = "#1e1e2e"
+red = "#1e1e2e"
+green = "#1e1e2e"
+yellow = "#1e1e2e"
+blue = "#1e1e2e"
+magenta = "#1e1e2e"
+cyan = "#1e1e2e"
+white = "#1e1e2e"
+
+# It didn't effect the terminal
+[colors.normal]
+black = "#1e1e2e"
+red = "#1e1e2e"
+green = "#1e1e2e"
+yellow = "#1e1e2e"
+blue = "#1e1e2e"
+magenta = "#1e1e2e"
+cyan = "#1e1e2e"
+white = "#1e1e2e"
+
+[colors.primary]
+background = "#89b4fa"
+foreground = "#1e1e2e"
+
+[font]
+size = 15
+
+[font.normal]
+family = "Maple Mono"
+style = "Regular"
+
+[font.bold]
+family = "Maple Mono"
+style = "Bold"
+
+[font.italic]
+family = "Maple Mono"
+style = "Italic"
+
+[font.bold_italic]
+family = "Maple Mono"
+style = "BoldItalic"
+
+

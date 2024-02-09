@@ -14,5 +14,6 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-mauve",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-rosepine-dark"
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-rosepine-dark",
+  "catppuccin-icon-styles@@ctp-icon-hide": false
 }

@@ -1,11 +1,12 @@
 {
   "accentColor": "#5b6e8f",
   "cssTheme": "Catppuccin",
-  "textFontFamily": "Open Sans,Roboto,Maple Mono",
+  "textFontFamily": "Open Sans,Maple Mono",
   "showViewHeader": true,
   "nativeMenus": false,
   "baseFontSize": 20,
   "enabledCssSnippets": [
-    "obsidian"
+    "obsidian",
+    "hide-top-bar"
   ]
 }

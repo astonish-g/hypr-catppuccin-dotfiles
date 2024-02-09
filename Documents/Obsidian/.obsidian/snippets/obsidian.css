@@ -8,10 +8,19 @@
   display: none !important;
 }
 
-/* Code Block background colour and border radius */
+/* Code Block background colour and border */
 .markdown-rendered pre {
   border-radius: 10px !important;
   background-color: #2b2c3e !important;
+  border: 1px solid #89b4fa;
+}
+
+/* Code background colour, font colour, border radius and padding*/
+.markdown-rendered code {
+  background-color: #484b69;
+  padding: 0.15em 0.25em;
+  color: #cdd6f4;
+  border-radius: 7px;
 }
 
 /* Sidebar Toggle button background */
