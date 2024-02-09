@@ -62,3 +62,11 @@ body > div.app-container > div.horizontal-main-container > div > div.workspace-r
   display: flex !important;
   justify-content: center;
 }
+
+/* Disable wrapping on code blocks in preview mode */
+.markdown-rendered :not(.print) code,
+body :not(.print) code {
+  word-break: normal;
+  word-wrap: break-word;
+  white-space: pre;
+}
