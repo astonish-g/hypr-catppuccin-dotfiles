@@ -3,9 +3,19 @@
   display: none;
 }
 
+/* Free up the space that was reserved for he minimize, maximize and close buttons*/
+.is-hidden-frameless:not(.is-fullscreen) .workspace-tabs.mod-top-right-space .workspace-tab-header-container {
+  padding-right: 10px;
+}
+
 /* Hide bottom status bar */
-.status-bar {
+/* .status-bar {
   display: none !important;
+}*/
+
+/* Callout border radius */
+.callout {
+  border-radius: 10px;
 }
 
 /* Code Block background colour and border */
@@ -69,4 +79,31 @@ body :not(.print) code {
   word-break: normal;
   word-wrap: break-word;
   white-space: pre;
+}
+
+/* Font Properties for bold, italic and highlight */
+/* Highlight properties */
+.markdown-rendered mark, .cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+  background-color: transparent !important;
+  font-weight: 700 !important;
+  color: #fab387 !important;
+}
+
+/* bold properties */
+strong, .cm-strong {
+  color: #cdd6f4 !important;
+  font-weight: 700 !important;
+}
+
+/* italic properties */
+em, .cm-em {
+  color: #cdd6f4 !important;
+  font-style: italic;
+}
+
+/* Strike through properties ~~strike~~ */
+del, .cm-strikethrough {
+  text-decoration: underline;
+  font-weight: 700;
+  color: #f9e2af;
 }

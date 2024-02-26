@@ -79,8 +79,18 @@
     "ignored-sinks": ["Easy Effects Sink"]
   },
   
+  // Old setup
+  // "battery": {
+    // "format": "{capacity}   {icon}",
+    // "format-icons": ["","","","","",""],
+    // "format-charging": "{capacity}  <span color='#00ff00'>{icon}</span>",
+    // "tooltip": false
+    // 
+  // }
+
   "battery": {
-    "format": "{capacity}   {icon}",
+    "interval": 5,
+    "format": "{power}  W    {capacity}   {icon}",
     "format-icons": ["","","","","",""],
     "format-charging": "{capacity}  <span color='#00ff00'>{icon}</span>",
     "tooltip": false
