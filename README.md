@@ -7,15 +7,19 @@ This is still a work in progress.. Try it on your own risk.
 - **WM:** Hyprland
 
 #### The apps that I use:
-- **Alacritty** as terminal
-- **Kitty** as terminal alternative
-- **Neovim** - I set it up with Youtube tutorials
-- **VSCode** - can be seen in the screenshots
-- **Obsidian** - can be seen in the screenshots
-- **Waybar** for top bar
-- **Nemo** for file manager
-- **Discord** is used with BetterDiscord for theme and plug-in support
-- **Stylus plug-in** for Firefox for custom .css themes for web sites. 
+- **Alacritty** as terminal.
+- **Kitty** as terminal alternative.
+- **Neovim** - I set it up with Youtube tutorials.
+- **VSCode** - can be seen in the screenshots.
+- **Obsidian** - can be seen in the screenshots.
+- **Waybar** for top bar.
+- **Wofi** for app-launcher.
+- **Nemo** for file manager.
+- **Discord** is used with BetterDiscord for theme and plug-in support.
+- **Stylus plug-in** for Firefox for custom .css themes for web sites.
+- **Swayidle** to dim the screen and turn off the screen.
+- **Swww** to cycle between the wallpapers every 10 minutes.
+- **Grim** and **slurp** for screenshot.
 
 #### Things to do:
 - [ ] Understand how to export Firefox settings.
