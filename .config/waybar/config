@@ -3,9 +3,9 @@
   "output": ["eDP-1"],
   "position": "top",
   
-  "modules-left": ["custom/apple","hyprland/workspaces"],
+  "modules-left": ["idle_inhibitor","hyprland/workspaces",],
   "modules-center": ["hyprland/window"],
-  "modules-right": ["network","backlight","pulseaudio","battery","clock"],
+  "modules-right": ["upower","network","backlight","pulseaudio","battery","clock"],
 
   "custom/apple": {
      "format": "{icon}",
@@ -32,6 +32,15 @@
     },
     "disable-click": true
   },
+
+  "idle_inhibitor": {
+    "format": "{icon}",
+    "timeout": 15,
+    "format-icons": {
+      "activated": "",
+      "deactivated": ""
+    }
+  },
  
   "hyprland/window": {
     "format": "{class}",
@@ -43,6 +52,16 @@
   "clock": {
     "format": "{:%a %b %d %I:%M %p}",
     "interval": 60
+  },
+
+  "upower": {
+    "native-path": "/org/bluez/hci0/dev_E9_05_14_DB_C8_22",
+    "icon-size": 20,
+    "hide-if-empty": true,
+    "tooltip": true,
+    "format": "{percentage}    󰌌 ",
+    "tooltip-spacing": 20,
+    "show-icon": false
   },
 
   "network": {

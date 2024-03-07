@@ -1,0 +1,12 @@
+term=alacritty
+width=550
+height=450
+show_all=false
+prompt=
+show=drun
+insensitive=true
+allow_images=true
+hide_scroll=true
+aways_parse_args=true
+image_size=40
+

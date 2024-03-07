@@ -1,5 +1,6 @@
 [Bookmarks]
 [Recent]
+/home/garo/Documents/Prada Lydia/New Work File/
 /home/garohypr/Documents/Blender/Dev Kits/Maitreya Lara X/Backup/Maitreya_MeshBodyKit_LaraX_Blender_3.1/Maitreya_MeshBodyKit_LaraX_Blender 3.1+/
 /home/garohypr/Documents/Blender/Projects/Prada Lydia/Work File/
 /home/garohypr/Downloads/
@@ -9,4 +10,3 @@
 /home/everi3/Documents/Blender/Blender Projects/Room/Dev 5/
 /home/everi3/Documents/Blender/Blender Projects/Room/Dev 3 B/
 /home/everi3/Documents/Blender/Blender Projects/Room/Dev 3/
-/home/everi3/Documents/PopArt Images/

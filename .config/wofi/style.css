@@ -1,0 +1,62 @@
+* {
+    /* font-family: 'SF Pro Display Bold'; */
+    font-family: 'Open Sans';
+    font-size: 22px;
+    font-weight: 400;
+}
+
+
+#window {
+    margin: 0px;
+    /* border: 5px solid; */
+    border: 2px solid;
+    border-color: rgba(138, 173, 244, 0.5);
+    border-radius: 25px;
+    /* background-color: #45475a; */
+    background-color: rgba(49, 50, 68, 0.6);
+    color:  rgb(205, 214, 244);
+}
+
+#input {
+    margin: 15px;
+    min-height: 50px;
+    background-color: rgba(88, 91, 111, 0.3);
+    color: rgb(205, 214, 244);
+    border-radius: 15px;
+    border: 1.1px solid rgba(138, 173, 244, 0.7);
+}
+
+#scroll {
+    margin-bottom: 15px;
+}
+
+#entry {
+    margin: 2px 15px;
+}
+
+#entry:selected {
+    /*background-color: /*rgb(245, 98, 36);*/
+    /* background-color: #86acea; */
+    background-color: rgba(137, 180, 250, 0.5);
+    color: rgb(205, 214, 244);
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+
+#entry > box {
+    margin-left: 16px;
+}
+
+#entry image {
+    padding-right: 10px;
+}
+
+#colors {
+    color: rgb(37, 38, 51);
+    color: rgb(52, 64, 76);
+    color: rgb(76, 90, 107);
+    color: rgb(112, 122, 137);
+    color: rgb(235, 77, 129);
+    color: rgb(245, 98, 36);
+}
