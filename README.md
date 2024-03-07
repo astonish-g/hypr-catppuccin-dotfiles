@@ -31,7 +31,7 @@ This is still a work in progress.. Try it on your own risk.
 It includes some of the bash scripts that I wrote and use. But as you can tell from the scripts, I am a beginner, so I am still learning and they most probably are not efficient. But well.. I am learning and having fun. :)
 
 #### Disable swayidle for 30 minutes:
-**Click** on the **Anchor** that is on the **Waybar** to **disable** the swayidle for **30 minutes**. You will see that the anchor icon will turn into a **coffee cup**.
+**Click** on the **Anchor** that is on the **Waybar** to **disable** the swayidle for **30 minutes**. You will see that the anchor icon will turn into a **coffee cup** when it is activated.
 
 #### My Extra Hotkeys:
 ##### Borders:
