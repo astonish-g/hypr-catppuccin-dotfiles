@@ -26,6 +26,47 @@ This is still a work in progress.. Try it on your own risk.
 #### ~/.g-scripts Folder:
 It includes some of the bash scripts that I wrote and use. But as you can tell from the scripts, I am a beginner, so I am still learning and they most probably are not efficient. But well.. I am learning and having fun. :)
 
+#### My Extra Hotkeys:
+##### Borders:
+- SUPER + B = Removes the borders
+- SUPER + CTRL + B = Sets the border size to 1px (default is 3px)
+- SUPER + SHIFT + B = Sets the border size to 2px (default is 3px)
+
+##### Waybar:
+- SUPER + W = Toggles Waybar - Hide and Show.
+- SUPER + SHIFT + W = Reloads my **default** Waybar config. **Transparent** background, **non-floating**. 
+- SUPER + CTRL + W = **Floating** Waybar, with solid background colour.
+- SUPER + ALT + W = **Floating** Waybar, with **border** and **semi-transparent** background.
+
+##### Gaps:
+- SUPER + - = Smaller gaps
+- SUPER + = = For biger gaps
+- SUPER + SHIFT + = No gaps
+- SUPER + R = Reset gaps
+
+##### App Launcher:
+- SUPER + D = Wofi
+
+##### Terminal:
+- SUPER + RETURN = Alacritty
+- SUPER + SHIFT + RETURN = Floating blue Alacritty
+- SUPER + K = Kitty
+
+##### Full-screen:
+- SUPER + F = Toggle full-screen for the focused app
+
+##### File-manager:
+- SUPER + N = Nemo
+
+##### Window management:
+- SUPER + J = Toggle Split direction: Vertical/Horizontal
+- SUPER + Arrow keys = Move **focus**
+- SUPER + CTRL + Arrow Keys = **Move** active window
+- SUPER + SHIFT + Arrow Keys = **Resize** active window
+
+##### Screenshot region:
+- SUPER + SHIFT + P = Screenshot the selected region *(needs **grim** and **slurp**)*
+
 #### Some screenshots:
 
 ![hypr-1](source/images/hypr-1.png)
